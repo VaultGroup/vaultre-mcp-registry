@@ -1,0 +1,12 @@
+{
+  "mcp_servers": [
+    {
+      "name": "vaultre-mcp",
+      "description": "VaultRE Atlassian integration (Jira, Confluence)",
+      "homepage": "https://github.com/VaultGroup/vaultre-mcp",
+      "documentation": "https://github.com/VaultGroup/vaultre-mcp/blob/main/README.md",
+      "language": "Node.js",
+      "url": "npx vaultre-mcp"
+    }
+  ]
+}
