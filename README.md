@@ -7,6 +7,7 @@ Official Model Context Protocol (MCP) server registry for VaultGroup tools.
 ## Servers
 
 - **vaultre-mcp** — Atlassian integration (Jira, Confluence)
+- **atlassian-mcp** — Official Atlassian MCP server (Jira, Confluence)
 
 ## How to Update
 

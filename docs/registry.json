@@ -7,6 +7,14 @@
       "documentation": "https://github.com/VaultGroup/vaultre-mcp/blob/main/README.md",
       "language": "Node.js",
       "url": "npx vaultre-mcp"
+    },
+    {
+      "name": "atlassian-mcp",
+      "description": "Official Atlassian MCP server for Jira and Confluence",
+      "homepage": "https://www.atlassian.com",
+      "documentation": "https://www.npmjs.com/package/@atlassian/mcp-atlassian",
+      "language": "Node.js",
+      "url": "npx -y @atlassian/mcp-atlassian"
     }
   ]
 }
