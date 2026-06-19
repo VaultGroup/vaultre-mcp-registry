@@ -7,7 +7,7 @@ Official Model Context Protocol (MCP) server registry for VaultGroup tools.
 ## Servers
 
 - **vaultre-mcp** — Atlassian integration (Jira, Confluence)
-- **atlassian-mcp** — Official Atlassian MCP server (Jira, Confluence)
+- **atlassian-mcp** — Official Atlassian Rovo (Remote) MCP server (Jira, Confluence, Compass) via the `mcp-remote` proxy to `https://mcp.atlassian.com/v1/mcp/authv2`
 
 ## How to Update
 
