@@ -25,6 +25,14 @@
       "url": "node /app/zendesk-mcp.mjs"
     },
     {
+      "name": "elastic-mcp",
+      "description": "Self-built read-only Elasticsearch MCP server (search logs + list indices, filebeat-* indices) for the vaultre-copilot-bot. ApiKey auth; gated by SSM mcp-elastic-enabled + elastic-url + elastic-api-key.",
+      "homepage": "https://github.com/VaultGroup/vaultre-ai-box",
+      "documentation": "https://github.com/VaultGroup/vaultre-ai-box/blob/main/elastic-mcp.mjs",
+      "language": "Node.js",
+      "url": "node /app/elastic-mcp.mjs"
+    },
+    {
       "name": "github-mcp",
       "description": "Official GitHub remote MCP server (read-only endpoint) for the vaultre-copilot-bot code-review mode — fetches PR context (description, reviews, comments, linked issues). Bearer PAT auth; gated by SSM mcp-github-enabled + github-mcp-token.",
       "homepage": "https://github.com/github/github-mcp-server",
